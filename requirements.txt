@@ -3,3 +3,5 @@ uvicorn
 gunicorn
 jinja2
 python-multipart
+fastapi-cache2
+pyodbc
